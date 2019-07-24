@@ -1,0 +1,9 @@
+Part 1: Basics
+
+*version control
+
+Part 2: Creat new respository on command line
+use git init
+
+Part 3: Track changes
+use git status
